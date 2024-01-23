@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MuniServe-Web-_Admin/static/css/main.7e021667.css",
+    "main.js": "/MuniServe-Web-_Admin/static/js/main.87f23f6b.js",
+    "static/js/498.9110dfcf.chunk.js": "/MuniServe-Web-_Admin/static/js/498.9110dfcf.chunk.js",
+    "static/js/703.ff8f4077.chunk.js": "/MuniServe-Web-_Admin/static/js/703.ff8f4077.chunk.js",
+    "static/js/513.146a745c.chunk.js": "/MuniServe-Web-_Admin/static/js/513.146a745c.chunk.js",
+    "static/js/787.0bc096d4.chunk.js": "/MuniServe-Web-_Admin/static/js/787.0bc096d4.chunk.js",
+    "static/media/slider3.png": "/MuniServe-Web-_Admin/static/media/slider3.e12b4048c1b9f423a173.png",
+    "static/media/slider1.png": "/MuniServe-Web-_Admin/static/media/slider1.bad4a781518e49ec16f7.png",
+    "static/media/slider2.png": "/MuniServe-Web-_Admin/static/media/slider2.c2ea95057c5276653dfe.png",
+    "static/media/logo.png": "/MuniServe-Web-_Admin/static/media/logo.b78b1b4e6d89b25b810a.png",
+    "index.html": "/MuniServe-Web-_Admin/index.html",
+    "main.7e021667.css.map": "/MuniServe-Web-_Admin/static/css/main.7e021667.css.map",
+    "main.87f23f6b.js.map": "/MuniServe-Web-_Admin/static/js/main.87f23f6b.js.map",
+    "498.9110dfcf.chunk.js.map": "/MuniServe-Web-_Admin/static/js/498.9110dfcf.chunk.js.map",
+    "703.ff8f4077.chunk.js.map": "/MuniServe-Web-_Admin/static/js/703.ff8f4077.chunk.js.map",
+    "513.146a745c.chunk.js.map": "/MuniServe-Web-_Admin/static/js/513.146a745c.chunk.js.map",
+    "787.0bc096d4.chunk.js.map": "/MuniServe-Web-_Admin/static/js/787.0bc096d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e021667.css",
+    "static/js/main.87f23f6b.js"
+  ]
+}
